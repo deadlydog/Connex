@@ -1,6 +1,6 @@
 # Connex
 
-A Tetris style game created using C++ and DirectX 7.
+A Tetris style game created using C++ and DirectX 7 in 2003.
 
 ![Connex screenshot](docs/Images/Connex.jpg)
 
