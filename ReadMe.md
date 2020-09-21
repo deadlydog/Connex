@@ -1,4 +1,4 @@
-# Blasteroid
+# Connex
 
 A Tetris style game created using C++ and DirectX 7.
 
